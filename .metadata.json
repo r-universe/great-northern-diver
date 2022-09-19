@@ -1,6 +1,18 @@
 [
   {
+    "package": "diveR",
+    "oncran": true
+  },
+  {
     "package": "edmcr",
+    "oncran": true
+  },
+  {
+    "package": "loon.data",
+    "oncran": true
+  },
+  {
+    "package": "loon.ggplot",
     "oncran": true
   },
   {
