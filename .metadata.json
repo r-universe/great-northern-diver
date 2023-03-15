@@ -1,10 +1,6 @@
 [
   {
-    "package": "diveR",
-    "oncran": true
-  },
-  {
-    "package": "edmcr",
+    "package": "loon.ggplot",
     "oncran": true
   },
   {
@@ -12,7 +8,11 @@
     "oncran": true
   },
   {
-    "package": "loon.ggplot",
+    "package": "edmcr",
+    "oncran": true
+  },
+  {
+    "package": "diveR",
     "oncran": true
   },
   {
