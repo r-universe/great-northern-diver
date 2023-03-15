@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "loon.ggplot"]
-	path = loon.ggplot
-	url = https://github.com/great-northern-diver/loon.ggplot
-	shallow = true
-	registered = true
-[submodule "loon.data"]
-	path = loon.data
-	url = https://github.com/great-northern-diver/loon.data
+[submodule "diveR"]
+	path = diveR
+	url = https://github.com/great-northern-diver/diver
 	shallow = true
 	registered = true
 [submodule "edmcr"]
@@ -18,9 +13,14 @@
 	url = https://github.com/great-northern-diver/edmcr
 	shallow = true
 	registered = true
-[submodule "diveR"]
-	path = diveR
-	url = https://github.com/great-northern-diver/diver
+[submodule "loon.data"]
+	path = loon.data
+	url = https://github.com/great-northern-diver/loon.data
+	shallow = true
+	registered = true
+[submodule "loon.ggplot"]
+	path = loon.ggplot
+	url = https://github.com/great-northern-diver/loon.ggplot
 	shallow = true
 	registered = true
 [submodule "zenplots"]
