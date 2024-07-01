@@ -8,6 +8,10 @@
 [submodule "edmcr"]
 	path = edmcr
 	url = https://github.com/great-northern-diver/edmcr
+[submodule "loon"]
+	path = loon
+	url = https://github.com/great-northern-diver/loon
+	subdir = R
 [submodule "loon.data"]
 	path = loon.data
 	url = https://github.com/great-northern-diver/loon.data
