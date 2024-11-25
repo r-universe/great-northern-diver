@@ -5,9 +5,6 @@
 [submodule "diveR"]
 	path = diveR
 	url = https://github.com/great-northern-diver/diver
-[submodule "edmcr"]
-	path = edmcr
-	url = https://github.com/great-northern-diver/edmcr
 [submodule "loon"]
 	path = loon
 	url = https://github.com/great-northern-diver/loon
